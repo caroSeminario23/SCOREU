@@ -5,7 +5,7 @@
     "width": 2000,
     "height": 2000,
     "scrollTop": -83.388,
-    "scrollLeft": -184.9707,
+    "scrollLeft": -177.9707,
     "zoomLevel": 1,
     "show": 511,
     "database": 16,
@@ -412,18 +412,18 @@
         "tableId": "FBGHOYAbMyLYb6zltnHFH",
         "name": "id_curso",
         "comment": "",
-        "dataType": "text",
+        "dataType": "varchar(255)",
         "default": "",
         "options": 12,
         "ui": {
           "keys": 0,
           "widthName": 60,
           "widthComment": 60,
-          "widthDataType": 60,
+          "widthDataType": 67,
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1729842957799,
+          "updateAt": 1729844063267,
           "createAt": 1729841767463
         }
       },
@@ -804,7 +804,7 @@
           "columnIds": [
             "mWLGTPCBcQ34WZwgOOgVl"
           ],
-          "x": 1039.5,
+          "x": 1043,
           "y": 466,
           "direction": 4
         },
@@ -1015,7 +1015,7 @@
       -1,
       {
         "name": 1729841823203,
-        "dataType": 1729842653435,
+        "dataType": 1729844063266,
         "options(notNull)": 1729842163928,
         "options(unique)": 1729842957792
       }
