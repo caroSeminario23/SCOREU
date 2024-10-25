@@ -412,9 +412,9 @@
         "tableId": "FBGHOYAbMyLYb6zltnHFH",
         "name": "id_curso",
         "comment": "",
-        "dataType": "int",
+        "dataType": "text",
         "default": "",
-        "options": 8,
+        "options": 12,
         "ui": {
           "keys": 0,
           "widthName": 60,
@@ -423,7 +423,7 @@
           "widthDefault": 60
         },
         "meta": {
-          "updateAt": 1729842163929,
+          "updateAt": 1729842957799,
           "createAt": 1729841767463
         }
       },
@@ -1015,8 +1015,9 @@
       -1,
       {
         "name": 1729841823203,
-        "dataType": 1729842153283,
-        "options(notNull)": 1729842163928
+        "dataType": 1729842653435,
+        "options(notNull)": 1729842163928,
+        "options(unique)": 1729842957792
       }
     ],
     "A2gAQ_udQ3czkIRlJsEfN": [
